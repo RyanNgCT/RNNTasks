@@ -1,4 +1,4 @@
-# NP FI DL Module Assignment 2
+# Experiments conducted with Recurrent Neural Networks
 
 This assignment consists of 2 parts:
 1. Sentiment Analysis with Emojis
