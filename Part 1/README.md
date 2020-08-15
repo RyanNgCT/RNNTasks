@@ -16,7 +16,6 @@ Mapping labelled sentiments to emoticons...
 ## Software Packages
 * Anaconda
    * Tensorflow (which includes Keras) and Tensorflow-Base
-   * Tensorboard
    * Tensorflow GPU (optional)
    
 ```
