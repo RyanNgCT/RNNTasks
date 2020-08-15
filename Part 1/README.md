@@ -11,8 +11,7 @@ Mapping labelled sentiments to emoticons...
 ## Recommended Hardware
 * At least 16GB RAM
 * An i7 Intel Processor (or equivalent)
-* A NVIDIA GPU with 2GB NVRAM (or equivalent)
-* NvMe SSD for unzipping the large (food-101) dataset
+* A NVIDIA GPU with 2GB VRAM (or equivalent)
 
 ## Software Packages
 * Anaconda
