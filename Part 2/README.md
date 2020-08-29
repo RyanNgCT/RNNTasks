@@ -1,7 +1,7 @@
 # Character Generation with Sherlock Holmes 🔍
-Generate a semi-coherent English sentence using RNN architectures. Use of differening architectures (LSTM, GRU), layer structure (nodes and number of layers) and Window Size (100, 200, 300)
+Generate a semi-coherent English sentence using RNN architectures. Use of differening architectures (LSTM, GRU), layer structure (nodes and number of layers) and Window Size (100, 200, 300).
 
-Download the saved models at this [link](https://drive.google.com/file/d/1Vvh3p1wEghT1_nc_OQz2uuoTVP1-STwd/view?usp=sharing)
+Download the saved models at this [link](https://drive.google.com/file/d/1Vvh3p1wEghT1_nc_OQz2uuoTVP1-STwd/view?usp=sharing).
 
 ## Recommended Hardware
 * At least 16GB RAM
@@ -9,7 +9,7 @@ Download the saved models at this [link](https://drive.google.com/file/d/1Vvh3p1
 * A NVIDIA GPU with 2GB VRAM (or equivalent)
 
 ## Software Packages
-* Anaconda
+* [Anaconda🐍](https://www.anaconda.com/products/individual)
    * Tensorflow (which includes Keras) and Tensorflow-Base
    * Tensorflow GPU (optional)
    
@@ -23,7 +23,7 @@ Place holmes.txt and Assignment_2_p2.ipynb in the same base directory (can be th
 
 ## Results
 | Model Number:  | Description/Type:                                           |Train Accuracy(%):|
-| -------------  | ------------------------------------------------------------| ---------------- |
+| -------------  |:------------------------------------------------------------| ---------------- |
 | 1              | LSTM RMSprop Base Win Size 100                              | 55.28            |
 | 2              | LSTM RMSprop Add layer Win Size 100                         | 53.50            |
 | 3              | LSTM Adam Base Win Size 100                                 | 54.28            |
