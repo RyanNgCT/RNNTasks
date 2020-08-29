@@ -14,7 +14,7 @@ Mapping labelled sentiments to emoticons...
 * A NVIDIA GPU with 2GB VRAM (or equivalent)
 
 ## Software Packages
-* Anaconda
+* [Anaconda 🐍](https://www.anaconda.com/products/individual)
    * Tensorflow (which includes Keras) and Tensorflow-Base
    * Tensorflow GPU (optional)
    
