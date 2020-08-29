@@ -1,5 +1,5 @@
 # Character Generation with Sherlock Holmes 🔍
-Generate a semi-coherent English sentence using RNN architectures. Use of differening architectures (LSTM, GRU), layer structure (nodes and number of layers) and Window Size (100, 200, 300).
+Generate a semi-coherent English sentence using RNN architectures. Use of differing architectures (LSTM, GRU), layer structure (nodes and number of layers) and Window Size (100, 200, 300).
 
 Download the saved models at this [link](https://drive.google.com/file/d/1Vvh3p1wEghT1_nc_OQz2uuoTVP1-STwd/view?usp=sharing).
 
@@ -56,6 +56,20 @@ The model should have a high percentage of english words since the objective is 
 *	Be able to generate a label that can possibly be used construct and English word given a new input
 
 
-Best Model: **Model 25** (see [report](https://github.com/RyanNgCT/RNNTasks/blob/master/DL_Assignment2_Report_NG%20CHIN%20TIONG%20RYAN.pdf) for scoring)
+Best Model: **Model 16** (see [report](https://github.com/RyanNgCT/RNNTasks/blob/master/DL_Assignment2_Report_NG%20CHIN%20TIONG%20RYAN.pdf) for scoring)
 
+Sample of text generated:
+```
+--- Generating with seed: " he has notentirely lost his self-respect.your reasoning is certainly plausible.the further 
+points, that he is middle-aged, that his hair isgrizzled, that it has been recently cut, and that he useslime-cream, 
+are all to be gathered from a close examination of thelower part of the lining. the lens di"
+
+------ temperature: 0.5
+e stard of the stated at the country the stains and the door. it was a senter and that i had been the stains and seemed at 
+the stains and that the stated with the side of the stard of the street. it was a star. it was a case of the street. 
+it was a little which was a way and shall be a possible of the street. i asked, which i can be the case and before ip to 
+any can to me the hat of the still man of the matter and succing at the letter of the street. it was not be bound to the 
+drove which shall be somethat if thecound at the pation, and the could nate is a little not men and that he was something 
+the great of the other uppasing and company which i have indicent for that i shall that there wa
+```
 
