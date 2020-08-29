@@ -39,7 +39,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 ## Results
 | Model Number:  | Description/Type:                                      |Test Accuracy (%):|
-| -------------  | ------------------------------------------------------ | ---------------- |
+| -------------  |:------------------------------------------------------ | ---------------- |
 | 1              | Non-PT LSTM RMSProp Base                               | 62.75            |
 | 2              | NonPT LSTM RMSprop Add 1 layer                         | 62.59            |
 | 3              | NonPT LSTM RMSprop Add L2 reg; change batch size       | 62.54            |
