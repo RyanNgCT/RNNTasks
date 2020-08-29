@@ -24,7 +24,7 @@ conda install tensorflow-gpu
 ```
 
 ## Processing Steps & Data Sampling
-1. Firstly, dataset.csv (which contains the tweets and the corresponding sentiment labels from 0 to 4) and mapping.csv (which contains the labels and the corresponding emoticons), as well as the Assignment_2_p1.ipynb must be placed in the **same base directory**.
+1. Firstly, place dataset.csv (which contains the tweets and the corresponding sentiment labels from 0 to 4) and mapping.csv (which contains the labels and the corresponding emoticons), as well as the Assignment_2_p1.ipynb must be placed in the **same base directory**.
 ```
 DL Assignment 2
 |- dataset.csv
@@ -65,6 +65,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 | 23             | PT GRU RMSprop glove100 FT1                            | 63.16            |
 | 24             | PT GRU Adam glove200 FT2                               | 64.54            |
 | 25             | PT GRU Adam glove200 FT3                               | 64.69            |
+
+*pretrained models without unfreezing layers for backpropagation
 
 ## Best Model Evaluation
 * Not overfit too quickly
